@@ -11,4 +11,4 @@ This is a tool meant to help interns connect with redhat's corporate wifi
 
 ## Screenshot of tool in action
 
-![screenshot of the wifi-up tool in action](/relative/path/to/img.jpg?raw=true "wifi-up")
+![screenshot of the wifi-up tool in action](./demonstration.png?raw=true "wifi-up")
